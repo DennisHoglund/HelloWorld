@@ -6,7 +6,7 @@ public class Start {
 	 */
 	public static void main(String[] args) {
 		// TDODO Auto-generated method stybbey
-		System.out.println("Hello Github!!!!");
+		System.out.println("Hello Gityhub!!!!");
 	}
 
 }
